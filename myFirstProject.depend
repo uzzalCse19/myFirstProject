@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1708256108 source:c:\users\uzzal\documents\myfirstproject\main.cpp
+	<iostream>
+	"myfirstclass.h"
+
+1708256108 c:\users\uzzal\documents\myfirstproject\myfirstclass.h
+
+1708256108 source:c:\users\uzzal\documents\myfirstproject\myfirstclass.cpp
+	"myfirstclass.h"
+	<iostream>
+
